@@ -1,0 +1,119 @@
+.moto-salon{
+    /* WebStudio */
+
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #2196F3;
+
+
+}
+.kross{
+  /* Студія */
+
+position: absolute;
+width: 45px;
+height: 16px;
+left: 453px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: black;
+
+
+}
+.enduro{
+/* Портфоліо */
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 548px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+
+}
+.sport{
+/* Контакти */
+
+position: absolute;
+width: 64px;
+height: 16px;
+left: 670px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+
+}
+.kvadrik{
+/* info@devstudio.com */
+
+position: absolute;
+width: 105px;
+height: 16px;
+left: 778px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+
+
+}
+.pit{
+
+}/* info@devstudio.com */
+
+position: absolute;
+width: 105px;
+height: 16px;
+left: 778px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
